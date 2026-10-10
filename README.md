@@ -161,8 +161,8 @@ Two complementary formulations are developed and benchmarked:
 ```
 AI_Project/
 ├── README.md                                  # Human-facing project documentation (this file)
-├── AGENTS.md                                  # Autonomous AI agent operating guidelines & context
-├── agent.md                                   # Symlink / mirror of AGENTS.md
+├── AGENTS.md                                  # Autonomous AI agent operating manual & authoritative rules
+├── PROGRESS.md                                # Real-time project milestones and phase roadmaps
 ├── F26-11.docx                                # Project Phase 1 proposal document
 ├── Dissertaion (AutoRecovered) ... (1).pdf    # Reference dissertation on telecom ML churn
 ├── Telecom+Customer+Churn/                    # Maven Analytics dataset files

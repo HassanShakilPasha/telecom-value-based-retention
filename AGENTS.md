@@ -1,8 +1,13 @@
 # AGENTS.md — Autonomous Agent Operating Manual & Repository Context
 
 > **Audience**: AI Coding Agents, Copilots, and Automated Runners working on this codebase.  
-> **Repository**: `AI_Project` (`/Users/hassanshakil/Antigravity/AI_Project`)  
+> **Repository**: `telecom-value-based-retention` (`https://github.com/HassanShakilPasha/telecom-value-based-retention`)  
 > **Course / Group**: AI2002 Artificial Intelligence — Track A (R&D) | Group `F26-11`  
+> **Project Title**: *From Prediction to Prescription: An Explainable AI Framework for Value-Based Customer Retention in the Telecom Sector*  
+> **Team Members**:
+> - Saqib Qazi (`24L-2506`)
+> - Hassan Shakil (`24L-2521`)
+> - Ammara Saleem (`24L-2571`)
 > **Core Theme**: Explainable, Value-Based Customer Churn Prediction and Prescription in Telecom.
 
 ---
