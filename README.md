@@ -1,8 +1,8 @@
 # From Prediction to Prescription: An Explainable AI Framework for Value-Based Customer Retention in the Telecom Sector
 
-[![Course](https://img.shields.io/badge/Course-AI2002%20Artificial%20Intelligence-blue.svg)](https://github.com/)
-[![Track](https://img.shields.io/badge/Track-A%3A%20Research%20%26%20Development-success.svg)](https://github.com/)
-[![Group](https://img.shields.io/badge/Group%20ID-F26--11-orange.svg)](https://github.com/)
+[![Course](https://img.shields.io/badge/Course-AI2002%20Artificial%20Intelligence-blue.svg)](https://github.com/HassanShakilPasha/telecom-value-based-retention)
+[![Track](https://img.shields.io/badge/Track-A%3A%20Research%20%26%20Development-success.svg)](https://github.com/HassanShakilPasha/telecom-value-based-retention)
+[![Group](https://img.shields.io/badge/Group%20ID-F26--11-orange.svg)](https://github.com/HassanShakilPasha/telecom-value-based-retention)
 [![Dataset](https://img.shields.io/badge/Dataset-Maven%20Analytics%20Telecom-yellow.svg)](https://mavenanalytics.io/data-playground?search=churn)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 
