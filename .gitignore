@@ -34,3 +34,9 @@ scratch/
 # Large Raw Archives
 *.zip
 Telecom+Customer+Churn.zip
+
+# Academic reports, submissions, and reference PDFs
+*.docx
+F26-*.docx
+Dissertaion*.pdf
+*.pdf
