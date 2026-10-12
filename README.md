@@ -11,7 +11,6 @@
 ## 👥 Project Information & Team Members
 
 - **Course**: AI2002 – Artificial Intelligence
-- **Phase**: Project Phase 1 Submission & Ongoing System Implementation
 - **Track**: Track A: Research & Development (R&D)
 - **Group ID**: `F26-11`
 
