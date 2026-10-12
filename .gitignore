@@ -39,4 +39,7 @@ Telecom+Customer+Churn.zip
 *.docx
 F26-*.docx
 Dissertaion*.pdf
-*.pdf
+# Allow the project report
+!reports/*.pdf
+!F26-11.pdf
+
