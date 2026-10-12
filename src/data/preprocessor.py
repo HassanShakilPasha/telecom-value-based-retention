@@ -161,7 +161,7 @@ def build_preprocessor_pipeline(
         f"and {len(low_card_features)} low-cardinality categorical features."
     )
 
-    cv = KFold(n_splits=5, shuffle=True, random_state=random_state)
+    #cv = KFold(n_splits=5, shuffle=True, random_state=random_state)
     preprocessor = ColumnTransformer(
         transformers=[
             (
@@ -171,7 +171,7 @@ def build_preprocessor_pipeline(
             ),
             (
                 "high_card",
-                TargetEncoder(smooth="auto", cv=cv),
+                TargetEncoder(smooth="auto", cv=5, random_state=random_state),
                 high_card_features,
             ),
             (
