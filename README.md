@@ -190,15 +190,20 @@ AI_Project/
 
 ### 1. Environment Setup
 ```bash
-# Clone / navigate to workspace
-cd /Users/hassanshakil/Antigravity/AI_Project
+# Clone & enter repo
+git clone https://github.com/HassanShakilPasha/telecom-value-based-retention.git
+cd telecom-value-based-retention
 
-# Create virtual environment
-python3 -m venv venv
-source venv/bin/activate
+# Setup environment
+python -m venv venv
+# Windows: .\venv\Scripts\activate | Mac/Linux: source venv/bin/activate
+pip install -r requirements.txt
+
 
 # Install essential dependencies
 pip install numpy pandas scikit-learn xgboost shap matplotlib seaborn scipy
+
+#Run Pipeline
 ```
 
 ### 2. Verify Dataset Integrity
